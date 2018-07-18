@@ -1,3 +1,5 @@
+ 
+ /*----------------------------------------hide keybord-------------------------------------------*/ 
  public void hideKeyboard() {
         View view = this.getCurrentFocus();
         if (view != null) {
